@@ -8,6 +8,25 @@
 - Richard Cardoso (RM350010)
 
 ---
+## Entrega Fase 5
+
+### SAGA
+
+A escolha do padrão Saga “Coreografado” se deu devido ao tamanho da aplicação com uma complexidade baixa. Como ele foi implementado na relação Pedido -> Pagamento, o número de mensagens entre os dois micros serviços. Outro fator, é que as transações acontecem de forma assíncrona, e, que qualquer quebra interrompe todo o processo. Todos os nossos micros serviços se conhecem.
+
+### OWASP ZAP
+
+### RIPD
+
+Link: https://drive.google.com/file/d/19OpOVxIY9GqDnhQFUYaXr0WoJNDkusbn/view?usp=sharing
+
+### Arquitetura
+
+### Video
+
+
+
+---
 ## Entrega Fase 3
 
 ### Subida do ambiente:
