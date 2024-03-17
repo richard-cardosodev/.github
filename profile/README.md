@@ -16,11 +16,17 @@ A escolha do padrão Saga “Coreografado” se deu devido ao tamanho da aplica�
 
 ### OWASP ZAP
 
+Conforme solicitado foi efetuada a varredura utilizando o OWASP - ZAP, porem logo na primeira varredura não constaram vulnerabilidades altas, somente foram identificadas vulnerabilidades baixas, portanto, como não foi necessário efetuar correções só teremos um relatório disponível. Abaixo o link para o reltório.
+
+https://drive.google.com/drive/folders/1mpGL0KKjJWo9_OlYIkI9P8S1cVq_KORo?usp=sharing
+
 ### RIPD
 
 Link: https://drive.google.com/file/d/19OpOVxIY9GqDnhQFUYaXr0WoJNDkusbn/view?usp=sharing
 
 ### Arquitetura
+
+![FIAP_AWS_CLOUD_DIAGRAM REVISADO drawio](https://github.com/richard-cardosodev/.github/assets/7695016/9c340ea9-bf44-4464-bdb5-a0fa04d1ad76)
 
 ### Video
 
