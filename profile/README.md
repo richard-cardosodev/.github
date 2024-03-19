@@ -14,6 +14,9 @@
 
 A escolha do padrão Saga “Coreografado” se deu devido ao tamanho da aplicação com uma complexidade baixa. Como ele foi implementado na relação Pedido -> Pagamento, o número de mensagens entre os dois micros serviços. Outro fator, é que as transações acontecem de forma assíncrona, e, que qualquer quebra interrompe todo o processo. Todos os nossos micros serviços se conhecem.
 
+![image](https://github.com/richard-cardosodev/.github/assets/7695016/2939fe27-0e13-4fc4-930e-419e842d5885)
+
+
 ### OWASP ZAP
 
 Conforme solicitado foi efetuada a varredura utilizando o OWASP - ZAP, porem logo na primeira varredura não constaram vulnerabilidades altas, somente foram identificadas vulnerabilidades baixas, portanto, como não foi necessário efetuar correções só teremos um relatório disponível. Abaixo o link para o reltório.
